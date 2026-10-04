@@ -1,0 +1,1 @@
+window.SOCIALS = { instagram: "", tiktok: "" };
